@@ -1,8 +1,8 @@
 {
   "name": "Vaishakh Nambiar",
   "photoUrl": "public/Vaishakh_pp.jpeg",
-  "intro": "I build and scale high-performance financial products that combine seamless user experiences with modern data architecture. Leveraging 6+ years of enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into highly commercial digital products, cloud-native layers, and intelligent AI-driven automation.",
-  "introHtml": "I build and scale <span class='text-white font-bold'>high-performance financial products</span> that combine seamless user experiences with modern data architecture. Leveraging 6+ years of enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into <span class='text-white font-bold'>highly commercial digital products</span>, cloud-native layers, and <span class='text-white font-bold'>efficient, high-impact</span> AI-driven automation.",
+  "intro": "I build and scale high-performance financial products that combine seamless user experiences with modern data architecture. Leveraging enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into highly commercial digital products, cloud-native layers, and intelligent AI-driven automation.",
+  "introHtml": "I build and scale <span class='text-white font-bold'>high-performance financial products</span> that combine seamless user experiences with modern data architecture. Leveraging enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into <span class='text-white font-bold'>highly commercial digital products</span>, cloud-native layers, and <span class='text-white font-bold'>efficient, high-impact</span> AI-driven automation.",
   "webpageTitle": "Vaishakh Nambiar",
   "resumeUrl": "public/Vaishakh_Nambiar_Resume.pdf",
 
