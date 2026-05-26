@@ -2,7 +2,7 @@
   "name": "Vaishakh Nambiar",
   "photoUrl": "favicon.svg",
   "intro": "I build and scale high-performance financial products that combine seamless user experiences with modern data architecture. Leveraging 6+ years of enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into highly commercial digital products, cloud-native layers, and intelligent AI-driven automation.",
-  "introHtml": "A brief, compelling introduction about who you are and what you do. Mention your core <span class='text-white font-bold'>philosophy</span>, your passion for building digital products, and your drive for creating <span class='text-white font-bold'>efficient</span>, <span class='text-white font-bold'>high-impact</span> solutions.",
+  "introHtml": "I build and scale <span class='text-white font-bold'>high-performance financial products</span> that combine seamless user experiences with modern data architecture. Leveraging 6+ years of enterprise experience at American Express and with Suncorp Australia, I specialize in transforming fragmented core-banking data into <span class='text-white font-bold'>highly commercial digital products</span>, cloud-native layers, and <span class='text-white font-bold'>efficient, high-impact</span> AI-driven automation.",
   "webpageTitle": "Vaishakh Nambiar",
   "resumeUrl": "https://example-files.online-convert.com/document/pdf/example.pdf",
 
@@ -10,13 +10,13 @@
   "socials": [
     {
       "name": "GitHub",
-      "url": "https://github.com/[YOUR_USER_NAME]",
+      "url": "https://github.com/vaishakh-nambiar01",
       "icon": "mdi:github",
       "showInContact": true
     },
     {
       "name": "LinkedIn",
-      "url": "https://linkedin.com/in/[YOUR_USER_NAME]",
+      "url": "https://www.linkedin.com/in/vaishakh-nambiar-18a103168/",
       "icon": "mdi:linkedin",
       "showInContact": true
     },
@@ -34,13 +34,13 @@
     },
     {
       "name": "Email",
-      "url": "mailto:your-mail@example.com",
+      "url": "mailto:vaishakh.nambiar01@gmail.com",
       "icon": "mdi:email",
       "showInContact": true
     },
     {
       "name": "Whatsapp",
-      "url": "https://wa.me/[YOUR_WHATSAPP_NUMBER]",
+      "url": "https://wa.me/918660795249",
       "icon": "mdi:whatsapp",
       "showInContact": true
     },
@@ -54,7 +54,7 @@
       "name": "Messenger",
       "url": "#",
       "icon": "mdi:facebook-messenger",
-      "showInContact": true
+      "showInContact": false
     },
     {
       "name": "Instagram",
