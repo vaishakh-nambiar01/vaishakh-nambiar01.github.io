@@ -1,18 +1,18 @@
 [
   {
     "company": "American Express",
-    "role": "Product Owner / Data Analyst",
+    "role": "Product Owner",
     "period": "May 2025 - Present",
     "type": "Full time job",
-    "description": "Leading end-to-end data product strategy and backlog management within technical data grids. Directed the migration of high-volume legacy deposit data tables into cloud architectures, driving cross-functional PI planning across four distinct workstreams. Successfully engineered automated validation controls and data-scrubbing loops that reduced downstream exceptions by 35%, ensuring high-fidelity, audit-ready data asset governance.",
-    "skills": ["Product Ownership", "Agile Roadmap Strategy", "PI Planning", "Data Governance", "SQL", "Technical Backlog Management", "Cross-functional Leadership"]
+    "description": "Lead end-to-end product strategy and technical backlog management within enterprise data grids. Directed the cloud-native migration of high-volume financial data assets, driving cross-functional Program Increment (PI) planning across multiple workstreams. Successfully engineered automated validation controls that reduced downstream exceptions by 35%. Promoted technical innovation by designing custom GenAI workflows that cut ad-hoc data development overhead and technical setup time by 40-50%.",
+    "skills": ["Product Ownership", "Agile Roadmap Strategy", "PI Planning", "Data Governance", "SQL", "GenAI Workflows", "Data Pipeline Optimization", "Cross-functional Leadership"]
   },
   {
-    "company": "American Express",
-    "role": "Data Analyst",
-    "period": "Prior Role",
+    "company": "Mu Sigma",
+    "role": "Business Analyst",
+    "period": "Oct 2019 to May 2025",
     "type": "Full time job",
-    "description": "Specialized in data analytics, pipeline optimization, and infrastructure velocity. Focused on translating complex compliance, risk, and financial requirements into scalable technical roadmaps. Championed automated engineering workflows, including designing a custom GenAI framework that reduced ad-hoc data development overhead and query setup time by 40-50%.",
-    "skills": ["Data Analytics", "Data Pipeline Optimization", "Automation", "GenAI Workflows", "Stakeholder Management", "Jira/Confluence"]
+    "description": "Executed data-driven problem solving and business intelligence initiatives for Fortune 500 enterprises. Partnered with cross-functional stakeholders to translate complex business challenges into structured analytical frameworks. Built automated reporting dashboards, performed deep-dive statistical analysis, and delivered actionable insights that optimized operational efficiency and product strategy.",
+    "skills": ["Business Analysis", "Data Analytics", "Data Visualization", "Statistical Modeling", "Problem Solving", "Stakeholder Collaboration"]
   }
 ]
