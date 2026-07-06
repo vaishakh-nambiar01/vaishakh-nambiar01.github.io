@@ -1,26 +1,18 @@
 [
   {
-    "company": "Demo Company",
-    "role": "Lead Software Engineer",
-    "period": "Oct 2025 - Present",
+    "company": "American Express",
+    "role": "Product Owner / Data Analyst",
+    "period": "May 2025 - Present",
     "type": "Full time job",
-    "description": "Leading cross-platform mobile development using Flutter and FastAPI. Focused on scalable system design and high-performance data processing.",
-    "skills": ["Leading", "Collaboration"]
+    "description": "Leading end-to-end data product strategy and backlog management within technical data grids. Directed the migration of high-volume legacy deposit data tables into cloud architectures, driving cross-functional PI planning across four distinct workstreams. Successfully engineered automated validation controls and data-scrubbing loops that reduced downstream exceptions by 35%, ensuring high-fidelity, audit-ready data asset governance.",
+    "skills": ["Product Ownership", "Agile Roadmap Strategy", "PI Planning", "Data Governance", "SQL", "Technical Backlog Management", "Cross-functional Leadership"]
   },
   {
-    "company": "Demo Company",
-    "role": "Full-stack Developer",
-    "period": "Sep 2023 - Sep 2025",
+    "company": "American Express",
+    "role": "Data Analyst",
+    "period": "Prior Role",
     "type": "Full time job",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["React", "Node.js", "PostgreSQL", "Docker"]
-  },
-  {
-    "company": "Demo University of Tech",
-    "role": "BSc in Computer Science",
-    "period": "Jun 2020 - Jun 2024",
-    "type": "Student",
-    "description": "Specializing in Business Research Methods and Strategic HRM. Applying analytical frameworks to human capital management.",
-    "skills": ["C++", "OOP", "Problem Solving"]
+    "description": "Specialized in data analytics, pipeline optimization, and infrastructure velocity. Focused on translating complex compliance, risk, and financial requirements into scalable technical roadmaps. Championed automated engineering workflows, including designing a custom GenAI framework that reduced ad-hoc data development overhead and query setup time by 40-50%.",
+    "skills": ["Data Analytics", "Data Pipeline Optimization", "Automation", "GenAI Workflows", "Stakeholder Management", "Jira/Confluence"]
   }
 ]
